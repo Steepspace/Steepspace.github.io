@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Portfolio on Apurva Narde</title>
-    <link>https://example.com/</link>
+    <link>https://steepspace.github.io/</link>
     <description>Recent content in My Portfolio on Apurva Narde</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://steepspace.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project: JEWEL Docker</title>
-      <link>https://example.com/post/project-1-jewel-docker/</link>
+      <link>https://steepspace.github.io/post/project-1-jewel-docker/</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/project-1-jewel-docker/</guid>
+      <guid>https://steepspace.github.io/post/project-1-jewel-docker/</guid>
       <description>In this project we have packaged the JEWEL event generator with docker. JEWEL is a Monte Carlo event generator simulating QCD jet evolution in heavy-ion collisions. It treats the interplay of QCD radiation and re-scattering in a medium with fully microscopic dynamics in a consistent perturbative framework with minimal assumptions.
 Please refer to github for more information: https://github.com/Steepspace/Jewel-docker</description>
     </item>
     
     <item>
       <title>Project: Photos Album</title>
-      <link>https://example.com/post/project-4-photos-album/</link>
+      <link>https://steepspace.github.io/post/project-4-photos-album/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/project-4-photos-album/</guid>
+      <guid>https://steepspace.github.io/post/project-4-photos-album/</guid>
       <description>Date of photo The last modiﬁcation date of the photo file is taken as the date of the photo.
 Tags Photos can be tagged with pretty much any attribute you think is useful to search on, or group by. Examples are location where photo was taken, and names of people in a photo, so you can search for photos by location and/or names. Think of a tag as a combination of tag name and tag value, e.</description>
     </item>
     
     <item>
       <title>Project: Chess CLI</title>
-      <link>https://example.com/post/project-2-chess-cli/</link>
+      <link>https://steepspace.github.io/post/project-2-chess-cli/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/project-2-chess-cli/</guid>
+      <guid>https://steepspace.github.io/post/project-2-chess-cli/</guid>
       <description>Here is an implementation of the game of Chess for two players. The program, when launched, should draw the board in text, on the terminal and prompt whomever’s turn it is (white or black) for a move. Once the move is executed, the move should be played and the new board drawn, and the other player queried.
 The board is drawn on the screen with ascii art as shown in this example:</description>
     </item>
     
     <item>
       <title>Project: Song Library</title>
-      <link>https://example.com/post/project-3-song-library/</link>
+      <link>https://steepspace.github.io/post/project-3-song-library/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/project-3-song-library/</guid>
+      <guid>https://steepspace.github.io/post/project-3-song-library/</guid>
       <description>In this project we have implemented an application with a graphical user interface to manage a library of songs. A song is uniquely identiﬁed by a combination of name and artist (case INsensitive, i.e. upper or lower case are the same). This means either name or artist may be duplicated, but the combination of name and artist may not
 Key Functions Song list display The ability to select ONE song from the list.</description>
     </item>
     
     <item>
       <title>Project: Digit Classification</title>
-      <link>https://example.com/post/project-5-digit-classification/</link>
+      <link>https://steepspace.github.io/post/project-5-digit-classification/</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/project-5-digit-classification/</guid>
+      <guid>https://steepspace.github.io/post/project-5-digit-classification/</guid>
       <description>In this project, we have designed three classifiers: a naive Bayes classifier, a perceptron classifier and a large-margin (MIRA) classifier. We have tested the classifiers on two image data sets: a set of scanned handwritten digit images and a set of face images in which edges have already been detected. Even with simple features, the classifiers are able to do quite well on these tasks when given enough training data.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://steepspace.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://steepspace.github.io/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     LinkedIn: https://linkedin.com/in/apurva-narde   GitHub: https://github.com/Steepspace    </description>
     </item>
